@@ -25,7 +25,7 @@ public class Main {
 
     // Данные о себе для задания № 7 (замените на свои).
     private static final VisitorDto ME = new VisitorDto(
-            "Александр", "Карманов", "+7-900-000-00-00", true,
+            "Александр", "Карманов", "+7-800-555-35-35", true,
             List.of(
                     new BookDto("Clean Code", "Robert C. Martin", 2008, "9780132350884", "Prentice Hall"),
                     new BookDto("The Pragmatic Programmer", "Andrew Hunt, David Thomas", 2019,
